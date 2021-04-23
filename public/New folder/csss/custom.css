@@ -1,0 +1,13 @@
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: red;
+}
+.ptag{
+    color: blue;
+    font-style: italic;
+    text-align: center;
+}
+/* body{
+    color: red;
+} */
